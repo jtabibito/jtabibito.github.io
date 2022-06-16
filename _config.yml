@@ -6,7 +6,7 @@ email: jtabibito@qq.com
 description: "Every failure is leading towards success."
 keyword: "JTabibito, JTabibito GitBlog, JTabibito的博客, JTabibito, 计霖, ML, AI, Unity3D, UE"
 url: "jtabibito.github.io"          # your host, for absolute URL
-baseurl: "jtabibito.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jtabibito/jtabibito.github.io.git" # you code repository
 
 # Sidebar settings
