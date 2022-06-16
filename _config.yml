@@ -3,11 +3,11 @@ title: JTabibito's Blog
 SEOTitle: JTabibito的博客 | JTabibito GitBlog
 header-img: img/post-bg-desk.jpg
 email: jtabibito@qq.com
-description: "Every failure is leading towards success."
+description: "We all live in fake sky."
 keyword: "JTabibito, JTabibito GitBlog, JTabibito的博客, JTabibito, 计霖, ML, AI, Unity3D, UE"
 url: "jtabibito.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/jtabibito/jtabibito.github.io.git" # you code repository
+github_repo: "https://github.com/jtabibito/jtabibito.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -65,7 +65,7 @@ gitalk:
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: jtabibito.github.io    #仓库名称
-  owner: jtabibito    #github用户名
+  owner: Lin Ji    #github用户名
   admin: jtabibito
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
