@@ -3,7 +3,7 @@ title: JTabibito's Blog
 SEOTitle: JTabibito的博客 | JTabibito GitBlog
 header-img: img/post-bg-desk.jpg
 email: jtabibito@qq.com
-description: "We all live in fake sky."
+description: "We all live in a fake sky."
 keyword: "JTabibito, JTabibito GitBlog, JTabibito的博客, JTabibito, 计霖, ML, AI, Unity3D, UE"
 url: "jtabibito.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/jtabibito/jtabibito.github.io" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "We all live in a fake sky."
 sidebar-avatar: /img/SHAKKER2C.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
